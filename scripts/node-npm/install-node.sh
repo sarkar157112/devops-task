@@ -41,4 +41,3 @@ fi
 
 echo "Installation completed successfully."
 
-
